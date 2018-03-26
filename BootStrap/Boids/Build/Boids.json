@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Boids",
+"dataUrl": "Boids.data.unityweb",
+"asmCodeUrl": "Boids.asm.code.unityweb",
+"asmMemoryUrl": "Boids.asm.memory.unityweb",
+"asmFrameworkUrl": "Boids.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
